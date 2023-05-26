@@ -58,9 +58,6 @@ In this case only 1 node of the cluster will be drained and restarted. After nod
 
 # Useful links
 
-**Confluence cassandra documentation**
-https://confluence.pm.tech/display/PLATFORM/Apache+Cassandra
-
 **Cassandra documentation**
 https://cassandra.apache.org/doc/latest/cassandra/getting_started/configuring.html
 

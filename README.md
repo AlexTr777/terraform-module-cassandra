@@ -4,7 +4,7 @@
 
 This directory contains a module to provision Cassandra cluster in AWS account on EC2 instances , using terraform provisioners. Configuration management don't require any configuration system as Ansible,etc. 
 
-Cassandra module has dependency on public AMI in AWS MARKETPLACE. AMI product id:5789e359-f513-4969-980c-38a720041130 , Cassandra on Ubuntu 22.04 with support by Hanwei. Without this dependecie module wouldn't efficient. Dependency configured as data source.
+Cassandra module has dependency on public AMI in AWS MARKETPLACE. AMI product id:5789e359-f513-4969-980c-38a720041130 , Cassandra on Ubuntu 22.04 with support by Hanwei. Without this dependecy module wouldn't efficient. Dependency configured as data source.
 
 
 
